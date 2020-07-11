@@ -1,0 +1,11 @@
+kullaniciadi = 'josep'
+sifre = 'W@!12"'
+ 
+deger_gir_k = input("Kullanıcı Adını Giriniz : ")
+ 
+
+if deger_gir_k == kullaniciadi:
+ print("Merhaba Joseph ! Parola: W @ 12",)
+ 
+else:
+ print("Merhaba Amina ! Sonra görüşürüz.")
